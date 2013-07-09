@@ -1,0 +1,11 @@
+django==1.5.1
+psycopg2
+Fabric
+mimeparse==0.1.3
+python-dateutil==1.5
+lxml==3.2.1
+defusedxml==0.4.1
+PyYAML==3.10
+biplist
+python-digest
+django-tastypie==0.9.15
