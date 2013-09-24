@@ -10,3 +10,4 @@ biplist
 python-digest
 django-tastypie==0.9.15
 South
+django-extensions
